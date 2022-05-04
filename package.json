@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://65.1.107.130:9980/mithuntechnologies/repository/npm-hosted/"
+    "registry": "http://65.0.135.148:9980/mithuntechnologies/repository/npm-hosted/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
